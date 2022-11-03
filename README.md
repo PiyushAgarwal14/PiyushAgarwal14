@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [![@piyushagarwal's Holopin board](https://holopin.me/piyushagarwal)](https://holopin.io/@piyushagarwal)
-![octocat-1667494341553](https://user-images.githubusercontent.com/87847452/199785081-4c786b38-06cc-4016-a444-b87d48c3ab3a.png)
+![octocat-1667494075468](https://user-images.githubusercontent.com/87847452/199785418-c71f724e-a7b2-4f17-8b5e-d5ef464aaa0e.png)
