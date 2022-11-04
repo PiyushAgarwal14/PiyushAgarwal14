@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![PiyushAgarwal14 GitHub stats](https://github-readme-stats.vercel.app/api?username=PiyushAgarwal14&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushAgarwal14&layout=compact)](https://github.com/PiyushAgarwal14/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushAgarwal14&langs_count=8)](https://github.com/PiyushAgarwal14/github-readme-stats)
