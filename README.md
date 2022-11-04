@@ -13,3 +13,6 @@ You can click the Preview link to take a look at your changes.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushAgarwal14&langs_count=8)](https://github.com/PiyushAgarwal14/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=PiyushAgarwal14)](https://github.com/PiyushAgarwal14/github-profile-trophy)
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PiyushAgarwal14)](https://git.io/streak-stats)
