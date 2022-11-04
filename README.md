@@ -8,10 +8,7 @@
 <!---Profile view counter--->
 ![](https://komarev.com/ghpvc/?username=PiyushAgarwal14)
 
-<p align="center">
-  <a href="https://github.com/search?q=extension%3Amd+%22https+readme+typing+svg%22&type=Code" alt="Users" title="Repo users">
-    <img src="https://freshidea.com/PiyushAgarwal14/app/github-search-results/readme-typing-svg/index.php"/></a>
- </p>
+
 
 <!---
 PiyushAgarwal14/PiyushAgarwal14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
