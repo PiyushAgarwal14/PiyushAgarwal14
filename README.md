@@ -10,6 +10,25 @@
 
 
 
+ <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats/actions">
+      <img alt="Tests Passing" src="https://github.com/PiyushAgarwal14/github-readme-stats/workflows/Test/badge.svg" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats/graphs/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/PiyushAgarwal14/github-readme-stats" />
+    </a>
+    <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
+      <img src="https://codecov.io/gh/PiyushAgarwal14/github-readme-stats/branch/master/graph/badge.svg" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/PiyushAgarwal14/github-readme-stats?color=0088ff" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/PiyushAgarwal14/github-readme-stats?color=0088ff" />
+    </a>
+  </p>
+
+
 <!---
 PiyushAgarwal14/PiyushAgarwal14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
