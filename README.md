@@ -17,10 +17,10 @@
     <a href="https://codecov.io/gh/PiyushAgarwal14/github-readme-stats">
       <img src="https://codecov.io/gh/PiyushAgarwal14/github-readme-stats/branch/master/graph/badge.svg" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues">
+    <a href="https://github.com/PiyushAgarwal14/github-readme-stats/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/PiyushAgarwal14/github-readme-stats?color=0088ff" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/pulls">
+    <a href="https://github.com/PiyushAgarwal14/github-readme-stats/pulls">
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/PiyushAgarwal14/github-readme-stats?color=0088ff" />
     </a>
   </p>
