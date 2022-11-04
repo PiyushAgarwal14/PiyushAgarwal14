@@ -11,8 +11,8 @@
 
 
  <p align="center">
-    <a href="https://github.com/PiyushAgarwal14/github-readme-stats/graphs/contributors">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/PiyushAgarwal14/github-readme-stats" />
+    <a href="https://dev.to/piyushagarwal14/">
+    ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
     </a>
     <a href="https://codecov.io/gh/PiyushAgarwal14/github-readme-stats">
       <img src="https://codecov.io/gh/PiyushAgarwal14/github-readme-stats/branch/master/graph/badge.svg" />
