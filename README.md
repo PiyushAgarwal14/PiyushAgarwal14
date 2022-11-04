@@ -12,16 +12,13 @@
 
  <p align="center">
     <a href="https://dev.to/piyushagarwal14/">
-    ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
     </a>
-    <a href="https://codecov.io/gh/PiyushAgarwal14/github-readme-stats">
-      <img src="https://codecov.io/gh/PiyushAgarwal14/github-readme-stats/branch/master/graph/badge.svg" />
+    <a href="https://www.linkedin.com/in/piyush-agarwal-85b0301ba/">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://github.com/PiyushAgarwal14/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/PiyushAgarwal14/github-readme-stats?color=0088ff" />
-    </a>
-    <a href="https://github.com/PiyushAgarwal14/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/PiyushAgarwal14/github-readme-stats?color=0088ff" />
+    <a href="https://www.instagram.com/piyushagarwal34/">
+      <img alt="Issues" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
     </a>
   </p>
 
