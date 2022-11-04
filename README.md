@@ -9,5 +9,4 @@ PiyushAgarwal14/PiyushAgarwal14 is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-[![@piyushagarwal's Holopin board](https://holopin.me/piyushagarwal)](https://holopin.io/@piyushagarwal)
-![octocat-1667494075468](https://user-images.githubusercontent.com/87847452/199785418-c71f724e-a7b2-4f17-8b5e-d5ef464aaa0e.png)
+https://dev.to/piyushagarwal14
