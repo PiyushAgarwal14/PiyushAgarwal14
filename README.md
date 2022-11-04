@@ -11,9 +11,6 @@
 
 
  <p align="center">
-    <a href="https://github.com/PiyushAgarwal14/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/PiyushAgarwal14/github-readme-stats/workflows/Test/badge.svg" />
-    </a>
     <a href="https://github.com/anuraghazra/github-readme-stats/graphs/contributors">
       <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/PiyushAgarwal14/github-readme-stats" />
     </a>
