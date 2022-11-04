@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/search?q=extension%3Amd+%22https+readme+typing+svg%22&type=Code" alt="Users" title="Repo users">
-    <img src="https://freshidea.com/jonah/app/github-search-results/readme-typing-svg/index.php"/></a>
+    <img src="https://freshidea.com/PiyushAgarwal14/app/github-search-results/readme-typing-svg/index.php"/></a>
  </p>
 
 <!---
