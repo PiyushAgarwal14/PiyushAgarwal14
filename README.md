@@ -11,7 +11,7 @@
 
 
  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats/graphs/contributors">
+    <a href="https://github.com/PiyushAgarwal14/github-readme-stats/graphs/contributors">
       <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/PiyushAgarwal14/github-readme-stats" />
     </a>
     <a href="https://codecov.io/gh/PiyushAgarwal14/github-readme-stats">
