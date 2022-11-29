@@ -23,10 +23,17 @@
   
   
  <a href="https://unsplash.com/@piyush_agarwal"> ![2560px-Unsplash_wordmark_logo svg](https://user-images.githubusercontent.com/87847452/204344148-37e71a99-2f82-4c2b-b441-90aa9fca651c.jpg) </a>
-<!-- 
-![Adobe_Photoshop_CC_icon svg (1)](https://user-images.githubusercontent.com/87847452/204345638-9f96208f-78c1-4c52-acff-3c09c69489aa.jpg)
+ 
+ # Tools & Technolgies
 
-![react js-img (2)](https://user-images.githubusercontent.com/87847452/204346617-af4f4c8f-2997-4585-b6dc-0600584279e0.jpg) -->
+
+<p>
+<img src="https://user-images.githubusercontent.com/87847452/204602425-8f54acf1-ad35-4d21-af5f-a9b08f6c49f2.png"/>
+<img src="https://user-images.githubusercontent.com/87847452/204604340-42a1b56b-4308-4b42-801c-0d4f8beda202.png"/>
+<img src="https://user-images.githubusercontent.com/87847452/204604670-eb79d4e1-784d-4902-a789-db74943ddc7b.png"/>
+</p>
+ 
+
 
 
 [![@piyushagarwal's Holopin board](https://holopin.me/piyushagarwal)](https://holopin.io/@piyushagarwal)
