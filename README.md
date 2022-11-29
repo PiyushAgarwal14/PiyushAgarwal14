@@ -19,11 +19,19 @@
     <a href="https://www.instagram.com/piyushagarwal34/">
       <img alt="Issues" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
     </a>
-  </p>
-  
-  
- <a href="https://unsplash.com/@piyush_agarwal"> ![2560px-Unsplash_wordmark_logo svg](https://user-images.githubusercontent.com/87847452/204344148-37e71a99-2f82-4c2b-b441-90aa9fca651c.jpg) </a>
+    <a href="https://unsplash.com/@piyush_agarwal"> 
+     <img src ="https://user-images.githubusercontent.com/87847452/204344148-37e71a99-2f82-4c2b-b441-90aa9fca651c.jpg"/>
+    </a>
+ </p>
  
+
+[![@piyushagarwal's Holopin board](https://holopin.me/piyushagarwal)](https://holopin.io/@piyushagarwal)
+
+<!---
+PiyushAgarwal14/PiyushAgarwal14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
  # Tools & Technolgies
 
 
@@ -39,16 +47,7 @@
 <img src ="https://user-images.githubusercontent.com/87847452/204611092-be3ab9ad-d7b9-4c72-8e6d-dbffcdf58707.png"/>
 <img src="https://user-images.githubusercontent.com/87847452/204611099-86c5e054-2f20-4a46-8787-948d263b9895.png"/>
 </p>
- 
 
-
-
-[![@piyushagarwal's Holopin board](https://holopin.me/piyushagarwal)](https://holopin.io/@piyushagarwal)
-
-<!---
-PiyushAgarwal14/PiyushAgarwal14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 ![PiyushAgarwal14 GitHub stats](https://github-readme-stats.vercel.app/api?username=PiyushAgarwal14&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushAgarwal14&langs_count=8)](https://github.com/PiyushAgarwal14/github-readme-stats)
