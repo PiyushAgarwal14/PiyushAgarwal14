@@ -64,7 +64,7 @@ You can click the Preview link to take a look at your changes.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushAgarwal14&langs_count=8)](https://github.com/PiyushAgarwal14/github-readme-stats)
-[![Piyush github activity graph](https://activity-graph.herokuapp.com/graph?username=PiyushAgarwal14&theme=tokyo-night)](https://github.com/PiyushAgarwal14/github-readme-activity-graph)
+[![Piyush github activity graph](https://activity-graph.herokuapp.com/graph?username=PiyushAgarwal14&theme=dracula)](https://github.com/PiyushAgarwal14/github-readme-activity-graph)
 <p align="left">
   <a href="https://www.youtube.com/channel/UCIIJomv7KbeTYM4LEoKsSng?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
