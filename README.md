@@ -23,7 +23,6 @@
  <p>
  <a href="https://app.daily.dev/piyushagarwal14"><img src="https://api.daily.dev/devcards/4a70d21b378349abbe8de3d50fe0f04c.png?r=a44" width="250" alt="Piyush Agarwal's Dev Card" align="right"/></a>
  </p>
-[![@piyushagarwal's Holopin board](https://holopin.me/piyushagarwal)](https://holopin.io/@piyushagarwal)
 
 <!---
 PiyushAgarwal14/PiyushAgarwal14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
