@@ -22,9 +22,10 @@
     <a href="https://unsplash.com/@piyush_agarwal"> 
      <img src ="https://user-images.githubusercontent.com/87847452/204344148-37e71a99-2f82-4c2b-b441-90aa9fca651c.jpg"/>
     </a>
+ </p> 
+ <p>
+ <a href="https://app.daily.dev/piyushagarwal14"><img src="https://api.daily.dev/devcards/4a70d21b378349abbe8de3d50fe0f04c.png?r=52r" width="250" alt="Piyush Agarwal's Dev Card" align="right"/></a>
  </p>
- 
-
 [![@piyushagarwal's Holopin board](https://holopin.me/piyushagarwal)](https://holopin.io/@piyushagarwal)
 
 <!---
