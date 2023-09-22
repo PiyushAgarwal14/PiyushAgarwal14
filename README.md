@@ -72,5 +72,5 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p>
- <a href="https://github.com/PiyushAgarwal14/PiyushAgarwal14/blob/output/snake.svg"> </a>
+<img src="https://raw.githubusercontent.com/piyushagarwal14/piyushagarwal14/output/snake.svg" alt="Snake animation" />
 </p>
