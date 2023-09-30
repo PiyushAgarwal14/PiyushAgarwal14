@@ -19,10 +19,10 @@
     <a href="https://unsplash.com/@piyush_agarwal"> 
      <img src ="https://user-images.githubusercontent.com/87847452/204344148-37e71a99-2f82-4c2b-b441-90aa9fca651c.jpg"/>
     </a>
- </p> 
+<!--  </p> 
  <p>
  <a href="https://app.daily.dev/piyushagarwal14"><img src="https://api.daily.dev/devcards/4a70d21b378349abbe8de3d50fe0f04c.png?r=a44" width="250" alt="Piyush Agarwal's Dev Card" align="right"/></a>
- </p>
+ </p> -->
 
 <!---
 PiyushAgarwal14/PiyushAgarwal14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -59,6 +59,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
+[![An image of @piyushagarwal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/piyushagarwal)](https://holopin.io/@piyushagarwal)
 
 
 
