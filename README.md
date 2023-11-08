@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React Js
 - 💞️ I’m looking to collaborate on Web Development Project 
 - 📫 piyushagarwalplay@gmail.com
-- :globe_with_meridians: http://piyushagarwal.freecluster.eu
+- :globe_with_meridians: https://piyushagarwal.netlify.app
 
 
  <p align="center">
