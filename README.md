@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PiyushAgarwal14
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React Js
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Web Development Project 
 - 📫 piyushagarwalplay@gmail.com
 - :globe_with_meridians: https://piyushagarwal.netlify.app
