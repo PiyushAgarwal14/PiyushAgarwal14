@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PiyushAgarwal14
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python & ERPNext
 - 💞️ I’m looking to collaborate on Web Development Project 
 - 📫 piyushagarwalplay@gmail.com
 - :globe_with_meridians: https://piyushagarwal.netlify.app
@@ -51,6 +51,10 @@ You can click the Preview link to take a look at your changes.
 <img src ="https://user-images.githubusercontent.com/87847452/204613844-05b986b0-cdc7-4d43-8d14-9042329bf93a.png"/>
 <img src="https://user-images.githubusercontent.com/87847452/204614606-2d7c9ee2-4b44-4604-95d5-9914f126ad5c.png"/> 
 <img src="https://user-images.githubusercontent.com/87847452/236498706-802ff44a-f0fe-4596-89da-1a39dc224f5d.png"/>
+<img src="https://github.com/PiyushAgarwal14/python_programs/assets/87847452/b94d2a32-06a5-4ec6-b904-d4e8b7d4ab45.png" width="70px"/>
+<img src="https://github.com/PiyushAgarwal14/python_programs/assets/87847452/8e31b65d-96fe-48da-b450-ea17f8137503.png" width="70px"/>
+<img src="https://github.com/PiyushAgarwal14/python_programs/assets/87847452/04d0292c-ed7e-4a64-a24f-024fa47eca51.svg" width="70px" />
+<img src="https://github.com/PiyushAgarwal14/python_programs/assets/87847452/4c349a2e-61b9-45a4-85d1-96dd3223e6b2.svg" width="70px" />
 
 </p>
 
