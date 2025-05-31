@@ -20,7 +20,10 @@
      <img src ="https://user-images.githubusercontent.com/87847452/204344148-37e71a99-2f82-4c2b-b441-90aa9fca651c.jpg"/>
     </a>
   <a href="https://www.behance.net/piyushagrawal7">
-        <img src ="https://github.com/PiyushAgarwal14/quicklearn/assets/87847452/abcd0151-311f-4c94-a4b4-66b71534ae37.png"/>
+        <img src ="https://cdn.worldvectorlogo.com/logos/behance-3.svg" width="70px"/>
+  </a>
+  <a href="https://www.credly.com/users/piyush-agarwal.4f9f77cb">
+      <img src='http://svgrepo.com/show/331358/credly.svg' width="40px"/>
   </a>
 <!--  </p> 
  <p>
